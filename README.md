@@ -1,4 +1,4 @@
-# Spryker Feature: Discontinued products
+# Spryker Feature: Discontinued Products
 
 Allows Shop Administrators to mark products as "discontinued" in the Administration Interface and show customers that the product is no longer available.
 
