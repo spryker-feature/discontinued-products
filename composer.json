@@ -11,7 +11,7 @@
     "spryker-shop/product-discontinued-widget": "^1.1.0",
     "spryker/product-discontinued": "^1.0.0",
     "spryker/product-discontinued-data-import": "^1.0.1",
-    "spryker/product-discontinued-gui": "^1.1.0",
+    "spryker/product-discontinued-gui": "^1.1.1",
     "spryker/product-discontinued-storage": "^1.5.0"
   },
   "extra": {
