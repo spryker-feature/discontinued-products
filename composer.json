@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201903.0",
     "spryker-shop/product-discontinued-widget": "^1.1.0",
     "spryker/product-discontinued": "^1.0.0",
     "spryker/product-discontinued-data-import": "^1.0.1",
@@ -18,5 +17,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
