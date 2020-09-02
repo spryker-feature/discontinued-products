@@ -8,10 +8,10 @@
   "require": {
     "php": ">=7.2",
     "spryker-shop/product-discontinued-widget": "^1.1.0",
-    "spryker/product-discontinued": "^1.1.0",
+    "spryker/product-discontinued": "^1.4.0",
     "spryker/product-discontinued-data-import": "^1.0.1",
-    "spryker/product-discontinued-gui": "^1.2.0",
-    "spryker/product-discontinued-storage": "^1.7.0"
+    "spryker/product-discontinued-gui": "^1.3.0",
+    "spryker/product-discontinued-storage": "^1.11.0"
   },
   "extra": {
     "branch-alias": {
