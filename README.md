@@ -14,4 +14,4 @@ composer require spryker-feature/discontinued-products
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductDiscontinuedRestApi ^1.0.0](https://github.com/spryker/product-discontinued-rest-api) (Glue)
+- [ProductDiscontinuedRestApi ^1.0.0](https://github.com/spryker/product-discontinued-rest-api) (Legacy Glue)
