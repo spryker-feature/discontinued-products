@@ -1,24 +1,24 @@
 {
-  "name": "spryker-feature/discontinued-products",
-  "description": "Discontinued Products [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.2",
-    "spryker-shop/product-discontinued-widget": "^1.1.0",
-    "spryker/product-discontinued": "^1.4.0",
-    "spryker/product-discontinued-data-import": "^1.0.1",
-    "spryker/product-discontinued-gui": "^1.3.0",
-    "spryker/product-discontinued-storage": "^1.11.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/discontinued-products",
+    "description": "Discontinued Products [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.0",
+        "spryker-shop/product-discontinued-widget": "^1.1.0",
+        "spryker/product-discontinued": "^1.4.0",
+        "spryker/product-discontinued-data-import": "^1.0.1",
+        "spryker/product-discontinued-gui": "^1.3.0",
+        "spryker/product-discontinued-storage": "^1.11.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202404.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
